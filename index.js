@@ -15,25 +15,25 @@ const questions = [
         name: 'desc',
         message: 'Provide a short description explaining the what, why, and how of your project.'
     },
-    // {
-    //     type: 'input',
-    //     name: 'install',
-    //     message: 'Provide a step-by-step description of how to get the development environment running.'
-    // },
-    // {
-    //     type: 'input',
-    //     name: 'use',
-    //     message: 'Provide instructions and examples for use. Include screenshots as needed.'
-    // },
-    // {
-    //     type: 'input',
-    //     name: 'credit',
-    //     message: 'List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence. If you followed tutorials, include links to those here.'
-    // },
+    {
+        type: 'input',
+        name: 'install',
+        message: 'Provide a step-by-step description of how to get the development environment running.'
+    },
+    {
+        type: 'input',
+        name: 'use',
+        message: 'Provide instructions and examples for use. Include screenshots as needed.'
+    },
+    {
+        type: 'input',
+        name: 'credit',
+        message: 'List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence. If you followed tutorials, include links to those here.'
+    },
     {
         type: 'list',
         message: 'Provide the correct licenses for your program (if any).',
-        choices: ['MIT', 'AUR', 'GPL'],
+        choices: ['MIT', 'AUR', 'GPL', 'N/A'],
         name: 'license',
     },
     {

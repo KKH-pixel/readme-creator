@@ -1,36 +1,21 @@
-# qqqqqqqqqqq
+# READme Generator
 
 ## Description
-![Github License](https://img.shields.io/badge/license-MIT-brightgreen)  
-wwwwwwwwwwwwwwww
+  
+This is a simple Javascript program created to help format in depth and correctly formatted READme files.
+
+![Screenshot](screenshot.png)
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
-undefined
+1) Download all files. 2) Open a terminal. 3) Install npm Inquirer. 4) Type "npm index.js" to run.
 
 ## Usage
-undefined
-
-## Credits
-undefined
-
-## License 
-[GitHub License](https://opensource.org/licenses/MIT)  
+The program will prompt you with a series of questions. Simply fill out each prompt with the correct information. Once complete, the program will auto-create a READme file.
 
 
-## Badges
-undefined
 
-## Features
-ssssssssssssssssss
 
-## How to Contribute
-xxxxxxxxxxxxxxxxx
-
-## Tests
-zzzzzzzzzzzzzzzzzz
