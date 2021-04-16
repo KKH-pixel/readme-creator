@@ -2,7 +2,6 @@
 // If there is no license, returns an empty string
 function renderLicenseBadge(license) {
   if(license == 'MIT') {
-    console.log('MIT')
     return `![Github License](https://img.shields.io/badge/license-${license}-brightgreen)`
   } else if (license == 'AUR') {
     return `![GPLv3 License](https://img.shields.io/badge/license-${license}-blue)`
@@ -66,9 +65,6 @@ ${data.credit}
 
 ${renderLicenseSection(data.license)} 
 ${renderLicenseLink(data.license)}  
-
-## Badges
-${data.badge}
 
 ## Features
 ${data.features}
