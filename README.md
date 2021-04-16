@@ -1,8 +1,8 @@
-# rrr
+# qqqqqqqqqqq
 
 ## Description
-it's fun
-
+![Github License](https://img.shields.io/badge/license-MIT-brightgreen)  
+wwwwwwwwwwwwwwww
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -11,25 +11,26 @@ it's fun
 - [License](#license)
 
 ## Installation
-ssss
+undefined
 
 ## Usage
-ffff
+undefined
 
 ## Credits
-eeeee
+undefined
 
-## License
-vvv
+## License 
+[GitHub License](https://opensource.org/licenses/MIT)  
+
 
 ## Badges
-wwww
+undefined
 
 ## Features
-vvv
+ssssssssssssssssss
 
 ## How to Contribute
-wwww
+xxxxxxxxxxxxxxxxx
 
 ## Tests
-ccc
+zzzzzzzzzzzzzzzzzz
